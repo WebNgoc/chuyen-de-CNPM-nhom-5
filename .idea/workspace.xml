@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a6c92a2-46b6-42f1-bfec-cdb8bf850220" name="Default" comment="" />
-    <ignored path="webphukiendienthoai.iws" />
+    <ignored path="webbanquanao.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +18,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="webphukiendienthoai" />
+    <favorites_list name="webbanquanao" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -90,7 +90,7 @@
   </component>
   <component name="PhpServers">
     <servers>
-      <server host="localhost" id="22abb6e3-4e9d-43b2-923f-4bd9b62dbd15" name="webphukiendienthoai" port="8080" />
+      <server host="localhost" id="22abb6e3-4e9d-43b2-923f-4bd9b62dbd15" name="webbanquanao" port="8080" />
     </servers>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
@@ -130,27 +130,27 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -160,11 +160,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -178,11 +178,11 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="webphukiendienthoai" />
+              <option name="myItemId" value="webbanquanao" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -209,7 +209,7 @@
     <property name="settings.editor.selected.configurable" value="web.server" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="PHP Web Application.webphukiendienthoai">
+  <component name="RunManager" selected="PHP Web Application.webbanquanao">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
       <method />
     </configuration>
@@ -224,7 +224,7 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="webphukiendienthoai" start_url="/wephukiendienthoai">
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="webbanquanao" start_url="/webanquanao">
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
@@ -243,11 +243,11 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="webphukiendienthoai" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="webphukiendienthoai" start_url="/webphukiendienthoai">
+    <configuration default="false" name="webbanquanao" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="webbanquanao" start_url="/webbanquanao">
       <method />
     </configuration>
     <list size="1">
-      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.webphukiendienthoai" />
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.webbanquanao" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
